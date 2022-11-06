@@ -3,7 +3,7 @@
 
 
 √ git clone https://github.com/Xihadxt/xihadt
-√ cd CRACKING
+√ cd xihad
 √ python Cracking.py
 
 
